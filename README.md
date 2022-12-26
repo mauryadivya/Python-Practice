@@ -1,2 +1,2 @@
-I have done few questions for python practice.
-I have write python code for Calculator.
+This is collection of python questions I have tried my hands on.
+There is question written with numbers and solution right below the question.
